@@ -89,6 +89,8 @@ To use the Flight Price Tracker effectively, you need to configure the following
 
 ## OUTPUT
 
+![image](https://github.com/devPach4545/cheap_flight_finder/assets/117800801/9f550583-58d8-4e88-8213-e2627bd1a0ea)
+
 
 ## Contributing
 
