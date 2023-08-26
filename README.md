@@ -1,4 +1,3 @@
-# cheap_flight_finder
 
 # Flight Price Tracker
 
@@ -87,6 +86,9 @@ To use the Flight Price Tracker effectively, you need to configure the following
 - **API Keys:** Obtain API keys for the Sheety API and Kiwi API and set them as environment variables.
 
 - **Email Configuration:** Set up your Gmail account to send email alerts. Ensure you set the `SENDER_PASSWORD` environment variable to your Gmail account password.
+
+## OUTPUT
+
 
 ## Contributing
 
